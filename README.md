@@ -1,4 +1,4 @@
-# CSCI145
+# WWU CSCI145
 CSCI145: Computer Programming &amp; Linear Data Structures
 
 * Abstract data types, generics, access or pointer types, dynamic memory allocation, recursion, concurrent programming and linear data structures, including stacks, lists and queues. Programming is required in implementation of concepts.
